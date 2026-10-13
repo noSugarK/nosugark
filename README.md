@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 你好，我是 noSugarK 👋
 
-计算机科学与技术专业。写 Django + Vue 的 Web 系统、Tauri 与 PySide6 的桌面应用，也做视觉识别与大模型接入。ICPC 省赛银奖、蓝桥杯国赛二等奖。
+计算机科学与技术专业。写 Django + Vue 的 Web 系统、Tauri 与 PySide6 的桌面应用，也做视觉识别与大模型接入。
 
 `大模型应用` `AI Agent` `计算机视觉` `全栈开发` `Python / C++`
 
@@ -33,10 +33,12 @@ Here are some ideas to get you started:
 
 ### 项目
 
-- [ReaLingo](https://github.com/noSugarK/ReaLingo)：支持阿里云百炼 Qwen、OpenAI、Google Gemini 的桌面同声传译工具（Tauri2 + Vue3，Windows / macOS / Linux）
-- [algoscent](https://github.com/noSugarK/algoscent)：基于大语言模型的个性化调香网站（Django5 + Vue3）
-- [hbszDataVisual](https://github.com/noSugarK/hbszDataVisual)：基于 Django5 的数据分析可视化网站
-- [tools_for_3d_detection](https://github.com/noSugarK/tools_for_3d_detection)：3D 标注自动化质检工具（PySide6 + YOLO + Qwen3-VL）
+<p>
+  <a href="https://github.com/noSugarK/ReaLingo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&hide_border=true" alt="ReaLingo" /></a>
+  <a href="https://github.com/noSugarK/algoscent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=algoscent&hide_border=true" alt="algoscent" /></a>
+  <a href="https://github.com/noSugarK/hbszDataVisual"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=hbszDataVisual&hide_border=true" alt="hbszDataVisual" /></a>
+  <a href="https://github.com/noSugarK/tools_for_3d_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=tools_for_3d_detection&hide_border=true" alt="tools_for_3d_detection" /></a>
+</p>
 
 ### GitHub 统计
 
@@ -44,7 +46,3 @@ Here are some ideas to get you started:
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
-
-<a href="https://github.com/noSugarK/ReaLingo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&hide_border=true" alt="ReaLingo" />
-</a>
