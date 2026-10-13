@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 `大模型应用` `AI Agent` `计算机视觉` `全栈开发` `Python / C++`
 
 🏠 个人主页与博客：**[nosugark.github.io](https://nosugark.github.io)**
+📧 联系邮箱：[nosugark@qq.com](mailto:nosugark@qq.com)
 
 ### 技术栈
 
@@ -36,8 +37,6 @@ Here are some ideas to get you started:
 <p>
   <a href="https://github.com/noSugarK/ReaLingo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&hide_border=true" alt="ReaLingo" /></a>
   <a href="https://github.com/noSugarK/algoscent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=algoscent&hide_border=true" alt="algoscent" /></a>
-  <a href="https://github.com/noSugarK/hbszDataVisual"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=hbszDataVisual&hide_border=true" alt="hbszDataVisual" /></a>
-  <a href="https://github.com/noSugarK/tools_for_3d_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=tools_for_3d_detection&hide_border=true" alt="tools_for_3d_detection" /></a>
 </p>
 
 ### GitHub 统计
