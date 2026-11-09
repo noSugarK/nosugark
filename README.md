@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 `大模型应用` `AI Agent` `计算机视觉` `全栈开发` `Python / C++`
 
 🏠 个人主页与博客：**[nosugark.github.io](https://nosugark.github.io)**
+
 📧 联系邮箱：[nosugark@qq.com](mailto:nosugark@qq.com)
 
 ### 技术栈
@@ -32,16 +33,47 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 项目
+### 🚀 正在构建
 
-<p>
-  <a href="https://github.com/noSugarK/ReaLingo"><img src="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&hide_border=true" alt="ReaLingo" /></a>
-  <a href="https://github.com/noSugarK/algoscent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=algoscent&hide_border=true" alt="algoscent" /></a>
+<p align="center">
+  <a href="https://github.com/noSugarK/ReaLingo">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&theme=radical&hide_border=true&border_radius=12"
+      />
+      <img
+        width="49%"
+        src="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&theme=default&hide_border=true&border_radius=12"
+        alt="ReaLingo"
+      />
+    </picture>
+  </a>
 </p>
 
-### GitHub 统计
+### ⚡ 我的开发仪表盘
 
-<p>
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&rank_icon=github&theme=radical"
+    />
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&rank_icon=github&theme=default"
+      alt="noSugarK 的 GitHub 统计"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=radical"
+    />
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=default"
+      alt="最常使用的语言"
+    />
+  </picture>
 </p>
