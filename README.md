@@ -29,37 +29,21 @@
 ### 🧑‍💻 About Me
 
 A Computer Science graduate who enjoys turning ideas into useful tools.  
-<sub>计算机科学与技术专业，喜欢把想法做成能实际使用的工具。</sub>
 
 - 🌐 **Web** — Building web applications with Django + Vue.  
-  <sub>使用 Django + Vue 构建前后端应用。</sub>
-
 - 🖥️ **Desktop** — Developing desktop tools with Tauri, Rust and PySide6.  
-  <sub>使用 Tauri、Rust 和 PySide6 开发桌面工具。</sub>
-
 - 🤖 **AI** — Exploring LLM integration, AI agents and computer vision.  
-  <sub>探索大模型接入、AI Agent 与计算机视觉。</sub>
-
-- 📝 **Writing** — Sharing development notes and lessons on my [blog](https://nosugark.github.io/blog/).  
-  <sub>在个人博客记录开发过程、实践经验与解决问题的方法。</sub>
+- 📝 **Writing** — Sharing development notes and lessons on my [blog](https://nosugark.github.io/blog/).
 
 <details>
-  <summary>🛠️ Behind the Code · 更多日常</summary>
+  <summary>🛠️ Behind the Code</summary>
 
   <br />
 
-  **Connecting AI to real applications**  
-  <sub>将大模型接入实际应用，探索 Agent 的工具调用与交互。</sub>
-
-  **Automating the repetitive work**  
-  <sub>用 Python 编写自动化工具，减少重复操作。</sub>
-
-  **Building for the web and desktop**  
-  <sub>用 Django、Vue、Tauri 和 PySide6，将想法带到网页与桌面。</sub>
-
-  **Learning, documenting and sharing**  
-  <sub>把开发中的问题、解决方法和经验整理成博客。</sub>
-
+  - **Connecting AI to real applications**  
+  - **Automating the repetitive work**  
+  - **Building for the web and desktop**  
+  - **Learning, documenting and sharing**  
 </details>
 
 ### 🧰 Tech Stack
@@ -117,20 +101,4 @@ A Computer Science graduate who enjoys turning ideas into useful tools.
       alt="Top Languages / 最常使用的语言"
     />
   </picture>
-</p>
-
----
-
-<p align="center">
-  <b>Building tools. Solving problems. Sharing what I learn.</b>
-  <br />
-  <sub>让工具解决问题，让想法变成作品。</sub>
-</p>
-
-<p align="center">
-  <a href="https://nosugark.github.io">Website</a>
-  ·
-  <a href="https://nosugark.github.io/blog/">Blog</a>
-  ·
-  <a href="mailto:nosugark@qq.com">Email</a>
 </p>
