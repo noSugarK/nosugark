@@ -1,39 +1,81 @@
-<!--
-**noSugarK/nosugark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm noSugarK</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Full-stack Developer · Desktop Apps · AI Explorer</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 你好，我是 noSugarK 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=E879A9&center=true&vCenter=true&width=650&height=55&lines=Building+useful+things+with+code.;Django+%2B+Vue+%7C+Tauri+%2B+Rust;Exploring+AI+Agents+%26+Computer+Vision"
+    width="650"
+    alt="Building useful things with code"
+  />
+</p>
 
-计算机科学与技术专业。写 Django + Vue 的 Web 系统、Tauri 与 PySide6 的桌面应用，也做视觉识别与大模型接入。
+<p align="center">
+  <a href="https://nosugark.github.io">
+    <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website / 个人主页" />
+  </a>
+  <a href="https://nosugark.github.io/blog/">
+    <img src="https://img.shields.io/badge/Blog-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Blog / 技术博客" />
+  </a>
+  <a href="mailto:nosugark@qq.com">
+    <img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email / 联系邮箱" />
+  </a>
+</p>
 
-`大模型应用` `AI Agent` `计算机视觉` `全栈开发` `Python / C++`
+---
 
-🏠 个人主页与博客：**[nosugark.github.io](https://nosugark.github.io)**
+### 🧑‍💻 About Me
 
-📧 联系邮箱：[nosugark@qq.com](mailto:nosugark@qq.com)
+A Computer Science graduate who enjoys turning ideas into useful tools.  
+<sub>计算机科学与技术专业，喜欢把想法做成能实际使用的工具。</sub>
 
-### 技术栈
+- 🌐 **Web** — Building web applications with Django + Vue.  
+  <sub>使用 Django + Vue 构建前后端应用。</sub>
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd343)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white)
-![Qt](https://img.shields.io/badge/PySide6-41cd52?style=flat-square&logo=qt&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24c8db?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+- 🖥️ **Desktop** — Developing desktop tools with Tauri, Rust and PySide6.  
+  <sub>使用 Tauri、Rust 和 PySide6 开发桌面工具。</sub>
 
-### 🚀 正在构建
+- 🤖 **AI** — Exploring LLM integration, AI agents and computer vision.  
+  <sub>探索大模型接入、AI Agent 与计算机视觉。</sub>
+
+- 📝 **Writing** — Sharing development notes and lessons on my [blog](https://nosugark.github.io/blog/).  
+  <sub>在个人博客记录开发过程、实践经验与解决问题的方法。</sub>
+
+<details>
+  <summary>🛠️ Behind the Code · 更多日常</summary>
+
+  <br />
+
+  **Connecting AI to real applications**  
+  <sub>将大模型接入实际应用，探索 Agent 的工具调用与交互。</sub>
+
+  **Automating the repetitive work**  
+  <sub>用 Python 编写自动化工具，减少重复操作。</sub>
+
+  **Building for the web and desktop**  
+  <sub>用 Django、Vue、Tauri 和 PySide6，将想法带到网页与桌面。</sub>
+
+  **Learning, documenting and sharing**  
+  <sub>把开发中的问题、解决方法和经验整理成博客。</sub>
+
+</details>
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffd343" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/PySide6-41cd52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+  <img src="https://img.shields.io/badge/Tauri-24c8db?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+### 🚀 Currently Building
 
 <p align="center">
   <a href="https://github.com/noSugarK/ReaLingo">
@@ -43,15 +85,14 @@ Here are some ideas to get you started:
         srcset="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&theme=radical&hide_border=true&border_radius=12"
       />
       <img
-        width="49%"
         src="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&theme=default&hide_border=true&border_radius=12"
-        alt="ReaLingo"
+        alt="ReaLingo repository / 项目仓库"
       />
     </picture>
   </a>
 </p>
 
-### ⚡ 我的开发仪表盘
+### ⚡ Developer Dashboard
 
 <p align="center">
   <picture>
@@ -62,7 +103,7 @@ Here are some ideas to get you started:
     <img
       height="180"
       src="https://github-stats-extended.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&rank_icon=github&theme=default"
-      alt="noSugarK 的 GitHub 统计"
+      alt="GitHub Stats / GitHub 统计"
     />
   </picture>
   <picture>
@@ -73,7 +114,23 @@ Here are some ideas to get you started:
     <img
       height="180"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=default"
-      alt="最常使用的语言"
+      alt="Top Languages / 最常使用的语言"
     />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <b>Building tools. Solving problems. Sharing what I learn.</b>
+  <br />
+  <sub>让工具解决问题，让想法变成作品。</sub>
+</p>
+
+<p align="center">
+  <a href="https://nosugark.github.io">Website</a>
+  ·
+  <a href="https://nosugark.github.io/blog/">Blog</a>
+  ·
+  <a href="mailto:nosugark@qq.com">Email</a>
 </p>
