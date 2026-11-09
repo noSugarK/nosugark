@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 ### 项目
 
 <p>
-  <a href="https://github.com/noSugarK/ReaLingo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&hide_border=true" alt="ReaLingo" /></a>
-  <a href="https://github.com/noSugarK/algoscent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noSugarK&repo=algoscent&hide_border=true" alt="algoscent" /></a>
+  <a href="https://github.com/noSugarK/ReaLingo"><img src="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=ReaLingo&hide_border=true" alt="ReaLingo" /></a>
+  <a href="https://github.com/noSugarK/algoscent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=noSugarK&repo=algoscent&hide_border=true" alt="algoscent" /></a>
 </p>
 
 ### GitHub 统计
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=noSugarK&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noSugarK&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
